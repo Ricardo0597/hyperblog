@@ -1,0 +1,3 @@
+Este es el curso de git.
+
+Lo estoy llevando el dia 12/10/2020.
